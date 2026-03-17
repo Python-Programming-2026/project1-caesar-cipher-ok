@@ -87,3 +87,6 @@ python Caesar.py
 3. 循环语句for和选择语句if
 4. f-string输出
 5. int()函数用于类型转化
+
+## 视频演示
+[视频演示](https://github.com/Python-Programming-2026/project1-caesar-cipher-ok/blob/main/Caesar%E8%A7%86%E9%A2%91%E6%BC%94%E7%A4%BA-Trim.gif)
